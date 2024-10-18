@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    background-image: url(/assets/pexels-pixabay-221210.jpg);
-    height: 450px;
+    background-image: url(../assets/pexels-victorfreitas-949131.jpg);
+    height: 350px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -19,9 +19,11 @@ header {
 
 h1 {
     text-align: center;
-    font-size: xx-large;
-    padding-top: 255px;
-    color: white;
+    font-size: xxx-large;
+    font-weight: bolder;
+    padding-top: 250px;
+    padding-right: 750px;
+    color: rgb(240, 236, 236)
 }
 
 main {
