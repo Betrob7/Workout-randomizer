@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(38, 37, 37);
+}
+
+header {
+    background-image: url(/assets/pexels-pixabay-221210.jpg);
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    
+    }
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 255px;
+    color: white;
+}
+
+main {
+    background-color: rgb(38, 37, 37);
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 2rem;
+    font-size: larger;
+    color: rgb(234, 234, 234);
+}
+
+button {
+    background-color: rgb(74, 10, 10);
+    color: rgb(234, 234, 234);
+    border-radius: 15px;
+    border: 0.5px solid rgb(35, 32, 32);
+    margin: 2rem;
+    padding-top: 0.75rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    padding-bottom: 0.75rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(104, 10, 10);
+}
