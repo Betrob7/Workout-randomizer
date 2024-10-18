@@ -27,6 +27,7 @@ h1 {
 main {
     background-color: rgb(38, 37, 37);
     text-align: center;
+    padding-bottom: 5rem;
 }
 
 h3 {
@@ -51,4 +52,10 @@ button {
 
 button:hover {
     background-color: rgb(104, 10, 10);
+}
+
+#resultat {
+    color: rgb(232, 237, 241);
+    font-size: x-large;
+    font-weight: bolder;
 }
